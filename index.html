@@ -1,72 +1,39 @@
-<!DOCTYPE HTML>
-<!--
-	Aerial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+<!DOCTYPE html>
 <html>
 
 <head>
-	<title>fsyu.me</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<link rel="stylesheet" href="assets/css/main.css" />
-	<noscript>
-		<link rel="stylesheet" href="assets/css/noscript.css" />
-	</noscript>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta charset="UTF-8" />
+  <meta name="description" content="fs233 API 一个兴趣使然的随机涩图API" />
+  <meta name="msvalidate.01" content="6319431C42DD6C301D60A08572179653" />
+  <link rel="stylesheet" href="//cdn.staticfile.org/docsify/4.12.2/themes/vue.min.css" />
+  <link rel="icon" href="/doc-logo.png" />
+  <title>FSYU.ME</title>
+
+  <style>
+    .mask {
+      background-color: #ffffff80 !important
+    }
+
+    section.cover .cover-main>p:last-child a:last-child {
+      background-color: #ffffff00;
+      color: #27a56c;
+    }
+  </style>
 </head>
 
-<body class="is-preload">
-	<div id="wrapper">
-		<div id="bg"></div>
-		<div id="overlay"></div>
-		<div id="main">
-
-			<!-- Header -->
-			<header id="header">
-				<h1>Fs_Yume Sitemap</h1>
-				<p>Emm...不知道说啥，就这样吧🤣</p>
-				<nav>
-					<ul>
-						<li>
-							<a href="https://www.fsyume.com">
-								<span class="label">My Blog</span>
-							</a>
-						</li>
-
-						<li>
-							<a href="https://fs233.cc">
-								<span class="label">fs233 API</span>
-							</a>
-						</li>
-
-						<li>
-							<a href="https://github.com/chihying-k">
-								<span class="label">Github</span>
-							</a>
-						</li>
-
-						<li>
-							<a href="mailto:hi@fsyume.com">
-								<span class="label">Email</span>
-							</a>
-						</li>
-					</ul>
-				</nav>
-			</header>
-
-			<!-- Footer -->
-			<footer id="footer">
-				<span class="copyright">&copy; Chihying K. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
-			</footer>
-
-		</div>
-	</div>
-	<script>
-		window.onload = function () { document.body.classList.remove('is-preload'); }
-		window.ontouchmove = function () { return false; }
-		window.onorientationchange = function () { document.body.scrollTop = 0; }
-	</script>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      // 开启封面
+      coverpage: true,
+      // 开启仅封面（无法向下滑动）
+      onlyCover: true
+    };
+  </script>
+  <script src="//cdn.staticfile.org/docsify/4.12.2/docsify.min.js"></script>
 </body>
 
 </html>
