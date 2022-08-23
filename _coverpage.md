@@ -2,7 +2,7 @@
 
 <!-- ![logo](_media/icon.svg) -->
 
-# FSYU.ME <small>©Chihying K</small>
+# FSYU.ME <small>© Chihying K</small>
 
 > Welcome to Fs_Yume Sitemap
 
@@ -11,4 +11,4 @@
 [资源站](http://cloud.fsyu.me/)
 [Github](https://github.com/chihying-k)
 
-![](https://tva1.sinaimg.cn/large/00795p2wly1h4ud1i8899j32y91nq1kx.jpg)
+![](https://tvax3.sinaimg.cn/large/00795p2wly1h5gfe6z09mj33if1z4hdt.jpg)
