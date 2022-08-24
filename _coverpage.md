@@ -9,6 +9,6 @@
 [My Blog](https://www.fsyume.com)
 [fs233 API](https://fs233.cc)
 [资源站](http://cloud.fsyu.me/)
-[Github](https://github.com/chihying-k)
+[Github](https://github.com/fsyume)
 
 ![](https://tvax3.sinaimg.cn/large/00795p2wly1h5gfe6z09mj33if1z4hdt.jpg)
