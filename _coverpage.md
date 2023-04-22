@@ -2,12 +2,12 @@
 
 <!-- ![logo](_media/icon.svg) -->
 
-# FSYU.ME <small>©Chihying</small>
+# fsyu.me <small>©Chihying</small>
 
-> Welcome to Fs_Yume Sitemap
+> Welcome to fs's Sitemap
 
+<!-- [fs233 API](https://fs233.cc) -->
 [My Blog](https://www.fsyume.com)
-[fs233 API](https://fs233.cc)
 [Github](https://github.com/fsyume)
 
-![](https://tvax3.sinaimg.cn/large/00795p2wly1h5gfe6z09mj33if1z4hdt.jpg)
+![](https://lpo.cos.fsyume.com/my/4.jpg)
